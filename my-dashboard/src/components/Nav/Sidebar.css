@@ -1,0 +1,7 @@
+.active a {
+    color: #ffffff; /* ou toute autre couleur que vous souhaitez */
+  }
+  .sidebar-list-item.active {
+    background-color: rgb(96, 182, 252);
+  }
+  
